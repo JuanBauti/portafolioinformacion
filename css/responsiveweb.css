@@ -1,0 +1,27 @@
+@media all and (min-width:500px){
+   /*PAGINA CONTACTO*/
+   #primero{
+       width: 50%;
+       float: left;
+   }
+   #segundo{
+       width: 40%;
+       float: right;
+   }
+}
+@media all and (max-width:500px){
+    #galeria li{
+        width: 90%;
+        margin: 5%;
+    }
+}
+/*PAGINA ACERCA DE*/
+@media all and (min-width:600px){
+    .perfil{
+        float: left;
+    }
+    nav ul{
+        text-align: right;
+        margin-right: 5%;
+    }
+}
